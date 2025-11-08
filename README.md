@@ -279,7 +279,7 @@ Cybersecurity · Machine Learning · IoT Security · Malware Analysis · Digital
   <img 
     src="https://github-profile-trophy.vercel.app/?username=MrN3O&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1&column=8" 
     alt="GitHub Trophies" 
-    width="700" />
+    width="800" />
 </p>
 
 ---
