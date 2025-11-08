@@ -279,7 +279,7 @@ Cybersecurity · Machine Learning · IoT Security · Malware Analysis · Digital
   <img 
     src="https://github-profile-trophy.vercel.app/?username=MrN3O&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1&column=8" 
     alt="GitHub Trophies" 
-    width="800" />
+    width="900" />
 </p>
 
 ---
@@ -293,8 +293,5 @@ Cybersecurity · Machine Learning · IoT Security · Malware Analysis · Digital
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
-
-
-
 
 <sub>⭐️ From [MrN3O](https://github.com/MrN3O) | Last Updated: November 2025 | Built with 💚 and Matrix vibes..!</sub>
