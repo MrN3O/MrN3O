@@ -289,13 +289,6 @@ Cybersecurity · Machine Learning · IoT Security · Malware Analysis · Digital
 *In cybersecurity, the adversary only needs to be right once, but defenders must be right every time. With machine learning, we're leveling the playing field.*
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontAlignY=70&animation=twinkling" width="100%"/>
 
