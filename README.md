@@ -64,17 +64,6 @@ researcher.share_fun_fact()
 researcher.call_to_collaborate()
 ```
 
----
-
-<div align="center">
-
-**💬 Ask Me About**  
-Cybersecurity · Machine Learning · IoT Security · Malware Analysis · Digital Forensics
-
-</div>
-
----
-
 ## 📚 Research Contribution
 
 My research contributions span **Cybersecurity**, **Machine Learning**, **IoT Security**, and **Digital Forensics**.
@@ -272,46 +261,39 @@ My research contributions span **Cybersecurity**, **Machine Learning**, **IoT Se
 
 ---
 
-## 🏆 GitHub Achievements
+<div align="center">
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=MrN3O&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" /></p>
+**💬 Ask Me About**  
+Cybersecurity · Machine Learning · IoT Security · Malware Analysis · Digital Forensics
 
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrN3O/MrN3O/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrN3O/MrN3O/output/snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrN3O/MrN3O/output/snake.svg" />
-</picture>
-
----
-
-## 📫 Let's Collaborate!
-
-I'm always interested in:
-- 🤝 Collaborating on **cybersecurity research projects**
-- 💬 Discussing **machine learning applications in security**
-- 🔬 Contributing to **open-source security tools**
-- 📚 Co-authoring **research papers**
-- 🎓 Mentoring aspiring **security researchers**
-
-**Feel free to reach out via [email](mailto:iammrneon@gmail.com) or connect on your preferred platform above!**
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 Research Philosophy
+---
 
-*"In cybersecurity, the adversary only needs to be right once, but defenders must be right every time. With machine learning, we're leveling the playing field."*
+## 🏆 GitHub Achievements
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=MrN3O&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1&column=8" 
+    alt="GitHub Trophies" 
+    width="700" />
+</p>
 
 ---
 
-### ⚡ Quick Stats
+### 💭 Research Philosophy
 
-![](https://komarev.com/ghpvc/?username=MrN3O&color=blueviolet&style=flat-square&label=Total+Profile+Views) **🔹 14 Research Papers | 🔹 Multiple Security Tools | 🔹 Machine Learning Enthusiast**
+*In cybersecurity, the adversary only needs to be right once, but defenders must be right every time. With machine learning, we're leveling the playing field.*
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 
@@ -319,6 +301,7 @@ I'm always interested in:
 
 </div>
 
----
 
-<sub>⭐️ From [MrN3O](https://github.com/MrN3O) | Last Updated: November 2025 | Built with 💚 and Matrix vibes</sub>
+
+
+<sub>⭐️ From [MrN3O](https://github.com/MrN3O) | Last Updated: November 2025 | Built with 💚 and Matrix vibes..!</sub>
