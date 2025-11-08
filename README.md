@@ -212,6 +212,7 @@ My research contributions span **Cybersecurity**, **Machine Learning**, **IoT Se
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-%230078D6?logo=windows&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-%23262577?logo=centos&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61?logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-%23607078?logo=vmware&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=Raspberry-Pi)
