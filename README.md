@@ -68,7 +68,7 @@ researcher.call_to_collaborate()
 
 My research contributions span **Cybersecurity**, **Machine Learning**, **IoT Security**, and **Digital Forensics**.
 
-- [Prediction of Terrorist Attacks over the Globe Using the Global Terrorism Database: A Comparative Analysis of Machine Learning Prediction Algorithms](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003328414-26/prediction-terrorist-attacks-throughout-globe-using-global-terrorism-database-happy-manoj-yadav) [`Dataset`](https://www.start.umd.edu/data-tools/GTD) [`Code`](#)
+- [Prediction of Terrorist Attacks over the Globe Using the Global Terrorism Database: A Comparative Analysis of Machine Learning Prediction Algorithms](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003328414-26/prediction-terrorist-attacks-throughout-globe-using-global-terrorism-database-happy-manoj-yadav) [`Dataset`](https://www.start.umd.edu/data-tools/GTD) [`Code`](https://github.com/MrN3O/Terrorist-Attacks-Prediction-Using-the-Global-Terrorism-Database-GTD/tree/master?tab=readme-ov-file)
 - [A Comparative Analysis of Machine Learning Prediction Algorithms for Detecting IoT Botnet Activities](https://ieeexplore.ieee.org/document/10581089) [`Dataset`](https://www.unb.ca/cic/datasets/iotdataset-2023.html) [`Code`](#)
 - [Android Based Malware Detection Technique Using Machine Learning Algorithms](https://ieeexplore.ieee.org/document/10696330) [`Dataset`](#) [`Code`](#)
 - [Machine Learning Methodologies for Predicting Fake News on Social Media X: A Comparative Investigation over TruthSeeker Dataset](https://ieeexplore.ieee.org/document/10830410) [`Dataset`](#) [`Code`](#)
