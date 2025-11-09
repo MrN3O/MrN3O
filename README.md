@@ -172,6 +172,8 @@ My research contributions span **Cybersecurity**, **Machine Learning**, **IoT Se
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75?logo=plotly&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3?logo=numpy&logoColor=blue)
+![Orange](https://img.shields.io/badge/Orange-%23F58220?logo=orange&logoColor=white)
+
 
 </td>
 </tr>
