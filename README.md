@@ -79,7 +79,7 @@ My research contributions span **Cybersecurity**, **Machine Learning**, **IoT Se
 - Forensic Investigation of IoT Smart Devices: Identifying Security and Privacy Issues in Amazon Alexa *(Under review)* [`Dataset`](#) [`Code`](#)
 - [Decrypting Digital Secrets: Browser Password Recovery from RAM Dumps in compliance with ISO/IEC 27037](https://link.springer.com/chapter/10.1007/978-3-031-95017-9_6) [`Dataset`](#) [`Code`](#)
 - Machine Learning-Based Methodologies for Internet of Things (IoT) Botnet Detection *(Under review)* [`Dataset`](https://www.unb.ca/cic/datasets/iotdataset-2023.html) [`Code`](#)
-- ML-BoTDAM: Machine Learning Driven Botnet Detection and Alerting Mechanism *(Under review)* [`Dataset`](https://www.unb.ca/cic/datasets/iotdataset-2023.html) [`Code`](#)
+- [ML-BoTDAM: Machine Learning Driven Botnet Detection and Alerting Mechanism](https://link.springer.com/article/10.1007/s12293-025-00490-2) [`Dataset`](https://www.unb.ca/cic/datasets/iotdataset-2023.html) [`Code`](#)
 - HML-BoTDAM: Hybrid Machine Learning Driven Botnet Detection and Alerting Mechanism *(Under review)* [`Dataset`](https://www.unb.ca/cic/datasets/iotdataset-2023.html) [`Code`](#)
 - [Inside IoT Botnet Ecosystem: A Review of its Evolution, Architecture, & Security Lifecycle](https://ieeexplore.ieee.org/document/11189518) [`Dataset`](#) [`Code`](#)
 
